@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "titulo": "Tech Summit LTP3",
+    "data": "2024-09-15",
+    "descricao": "Conferência sobre tendências em desenvolvimento web Java.",
+    "vagas": 120
+  },
+  {
+    "id": 2,
+    "titulo": "Workshop Servlets Avançado",
+    "data": "2024-10-02",
+    "descricao": "Sessão prática sobre filtros, listeners e otimização de Servlets.",
+    "vagas": 40
+  },
+  {
+    "id": 3,
+    "titulo": "Bootcamp JSP e JSTL",
+    "data": "2024-11-10",
+    "descricao": "Imersão em construção de camadas de visão com JSTL, EL e componentes reutilizáveis.",
+    "vagas": 60
+  }
+]
